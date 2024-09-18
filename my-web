@@ -1,0 +1,4 @@
+my-web-app/
+├── index.html
+├── style.css
+└── script.js
